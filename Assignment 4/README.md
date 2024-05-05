@@ -33,8 +33,14 @@ The program has been thoroughly tested and works correctly under various conditi
 
 ## Screenshots
 Please refer to the attached screenshots demonstrating the program execution for various inputs:
-1. Screenshot1.png - Execution with 3 frames.
-2. Screenshot2.png - Execution with 5 frames.
-3. Screenshot3.png - Execution with 10 frames.
-4. Screenshot4.png - Execution with 20 frames.
+1. Screenshot1.png - Execution with 1 frame.
+![Program 4 valid output 1](https://github.com/Digvijayhj/CSC521-Advanced-Programming-Languages/blob/master/Assignment%204/Output-ScreenShot-3.png?raw=true)
+2. Screenshot2.png - Execution with 3 frames.
+![Program 4 valid output 2](https://github.com/Digvijayhj/CSC521-Advanced-Programming-Languages/blob/master/Assignment%204/Output-ScreenShot-4.png?raw=true)
+3. Screenshot3.png - Execution with 101 frames.
+![Program 4 valid output 3](https://github.com/Digvijayhj/CSC521-Advanced-Programming-Languages/blob/master/Assignment%204/Output-ScreenShot-6.png?raw=true)
+4. Screenshot4.png - Execution with 200 frames.
+![Program 4 invalid output 4](https://github.com/Digvijayhj/CSC521-Advanced-Programming-Languages/blob/master/Assignment%204/Output-ScreenShot-5.png?raw=true)
 5. Screenshot5.png - Error handling for invalid input.
+![Program 4 invalid output 1](https://github.com/Digvijayhj/CSC521-Advanced-Programming-Languages/blob/master/Assignment%204/Output-ScreenShot-1.png?raw=true)
+![Program 4 invalid output 2](https://github.com/Digvijayhj/CSC521-Advanced-Programming-Languages/blob/master/Assignment%204/Output-ScreenShot-2.png?raw=true)
